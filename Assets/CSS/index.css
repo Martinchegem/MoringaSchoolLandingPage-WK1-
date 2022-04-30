@@ -10,8 +10,6 @@ button {
  background-color: white;
  color: #EC4067;
 }
-#first {
-        margin-right: auto;
-        display: block;
-       }
+#p1 {
+    align-content: left;
 }
