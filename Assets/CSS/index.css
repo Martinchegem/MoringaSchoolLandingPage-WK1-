@@ -1,5 +1,7 @@
 body {
     background-color: aliceblue;
+    font-family: "nunito" ;
+    font-weight: lighter;
 }
 .title {
     color: red;
@@ -15,3 +17,14 @@ button {
  background-color: white;
  color: #EC4067;
 }
+#tech {
+ color: #EC4067;
+ font-family: "nunito";
+}
+    div {
+        width: auto;
+      }
+      li {
+        list-style: none;
+        float: left;
+      }
