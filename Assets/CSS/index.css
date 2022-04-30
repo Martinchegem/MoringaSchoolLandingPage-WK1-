@@ -4,4 +4,9 @@
 button {
     background-color: #EC4067;
     font-family: "nunito";
+    color: white;
+}
+#white {
+ background-color: white;
+ color: #EC4067;
 }
