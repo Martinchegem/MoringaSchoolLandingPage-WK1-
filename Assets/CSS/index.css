@@ -1,3 +1,6 @@
+body {
+    background-color: aliceblue;
+}
 .title {
     color: red;
 }
@@ -5,11 +8,10 @@ button {
     background-color: #EC4067;
     font-family: "nunito";
     color: white;
+    border: round;
+    size: 100px;
 }
 #white {
  background-color: white;
  color: #EC4067;
-}
-#p1 {
-    align-content: left;
 }
