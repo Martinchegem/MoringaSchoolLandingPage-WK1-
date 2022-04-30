@@ -10,3 +10,8 @@ button {
  background-color: white;
  color: #EC4067;
 }
+#first {
+        margin-right: auto;
+        display: block;
+       }
+}
