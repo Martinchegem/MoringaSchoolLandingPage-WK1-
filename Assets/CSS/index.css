@@ -3,12 +3,68 @@ body {
     font-family: "nunito" ;
     font-weight: lighter;
 }
+firstleft{
+    padding-left: 100px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image1 {
+    padding-top: 100px;
+    margin-top: auto;
+    margin-right: auto;
+}
+image2 {
+    padding-left: 500px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+}
+image3 {
+    padding-right: 500px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+}
+image4 {
+    padding-left: 500px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image5 {
+    padding-inline-start: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image6 {
+    padding-inline: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image7 {
+    padding-inline: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image8 {
+    padding-inline-end: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+image9 {
+    padding-right: 500px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+
+
 *{
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     font-family: "nunito";
 }
-main{
+
+topleft{
     max-width: 1100px;
     margin: auto;
 }
