@@ -1,56 +1,68 @@
-body {
-    background-color: aliceblue;
-    font-family: "nunito" ;
-    font-weight: lighter;
+topsection{
+    padding: 15px;
 }
-*{
-    margin: 0;
-    padding: 0;
-    font-family: "nunito";
+section{
+    display: inline;
+    align-items: center;
+    justify-content: stretch;
+    padding: 25px;
 }
-main{
-    max-width: 1100px;
-    margin: auto;
-}
-
-h1.right {
+#title1{
     color: #EC4067;
-    font-family: "nunito";
-    font-weight: 100;
 }
-header{
-    
+a{
+    font-weight: 500;
+}
+.rightimg{
+    overflow-wrap: auto;
+    display: inline;
+    padding: 25px;
 }
 ul{
-    list-style-type: none;
-    float: right;
+    display: inline-flex;
 }
 
-ul li{
-    display: inline-block;
+li{
+    list-style: none;
+    padding: 2px 40px 0px;
+}
+.lefttxt{
+    max-width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    align-items: flex-start;
 }
 
-ul li a{
-    text-decoration: none;
-    color: black;
-    padding: 5px 20px;
-    border: 1px;
-    margin-top: 25px;
-    margin-right: 20px;
+.lefttxt h1{
+    font-weight: 300px;
+    color: #EC4067;
 }
-    
-.title {
-    color: red;
+.lefttxt h2{
+    font-weight: 900;
 }
-button {
+.lefttxt p{
+    font-size: 30;
+    font: weight 200px; ;
+}
+.Enrollbutton{
+    height: 50px;
+    margin-right: 15px;
+    width: 200px;
     background-color: #EC4067;
-    font-family: "nunito";
+    font-size: 30px;
+    border: none;
     color: white;
-    border: #EC4067;
-    padding: 10px 10px;
-    size: 100px;
+    border-radius: 5px;
+    
+
 }
-#white {
- background-color: white;
- color: #EC4067;
+
+
+*{
+    font-family: "nunito";
+    padding: 0px;
+    margin: 0px;
 }
+
