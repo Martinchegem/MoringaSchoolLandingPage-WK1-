@@ -55,8 +55,66 @@ li{
     border: none;
     color: white;
     border-radius: 5px;
-    
 
+}
+.Storysection{
+padding: 15px 0px;
+}
+
+.Storysection h2{
+    max-width: 800px;
+    right: -100px;
+    position: relative;
+
+}
+
+.leftimg h3{
+    color: white;
+    position: relative;
+    top: -60px;
+    right: -20;
+
+}
+.righttxt{
+    display: flex;
+    padding: 20px 0px;
+}
+.Bordersection{
+    display: flex;
+    padding: 50px 0px;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
+.TMsoneline{
+    padding: 20px 0px;
+    display:flex
+}
+.Textbelow{
+    display: grid;
+    row-gap: 25px;
+}
+.lineimg img{
+padding: 5px 0px 5px;
+width: 250px;
+}
+
+.lineimg h3{
+    color: white;
+    right: -10px;
+    top: -40px;
+    position: relative;
+}
+.lineimg h4{
+    color: #EC4067;
+}
+
+
+.Explorebutton{
+    height: 50;
+    width: 90px;
+    font-size: 30px;
+    background-color: white;
+    color: #EC4067;
 }
 
 
