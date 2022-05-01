@@ -1,112 +1,68 @@
-body {
-    background-color: aliceblue;
-    font-family: "nunito" ;
-    font-weight: lighter;
+topsection{
+    padding: 15px;
 }
-firstleft{
-    padding-left: 100px;
-    margin-top: 100px;
-    margin-right: 100px;
+section{
+    display: inline;
+    align-items: center;
+    justify-content: stretch;
+    padding: 25px;
 }
-image1 {
-    padding-top: 100px;
-    margin-top: auto;
-    margin-right: auto;
+#title1{
+    color: #EC4067;
 }
-image2 {
-    padding-left: 500px;
-    margin-top: 100px;
-    margin-right: 100px;
+a{
+    font-weight: 500;
 }
+.rightimg{
+    overflow-wrap: auto;
+    display: inline;
+    padding: 25px;
 }
-image3 {
-    padding-right: 500px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-}
-image4 {
-    padding-left: 500px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-image5 {
-    padding-inline-start: 200px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-image6 {
-    padding-inline: 200px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-image7 {
-    padding-inline: 200px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-image8 {
-    padding-inline-end: 200px;
-    margin-top: 100px;
-    margin-right: 100px;
-}
-image9 {
-    padding-right: 500px;
-    margin-top: 100px;
-    margin-right: 100px;
+ul{
+    display: inline-flex;
 }
 
+li{
+    list-style: none;
+    padding: 2px 40px 0px;
+}
+.lefttxt{
+    max-width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    align-items: flex-start;
+}
+
+.lefttxt h1{
+    font-weight: 300px;
+    color: #EC4067;
+}
+.lefttxt h2{
+    font-weight: 900;
+}
+.lefttxt p{
+    font-size: 30;
+    font: weight 200px; ;
+}
+.Enrollbutton{
+    height: 50px;
+    margin-right: 15px;
+    width: 200px;
+    background-color: #EC4067;
+    font-size: 30px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    
+
+}
 
 
 *{
-    margin: 10;
-    padding: 10;
     font-family: "nunito";
+    padding: 0px;
+    margin: 0px;
 }
 
-topleft{
-    max-width: 1100px;
-    margin: auto;
-}
-
-h1.right {
-    color: #EC4067;
-    font-family: "nunito";
-    font-weight: 100;
-}
-header{
-    
-}
-ul{
-    list-style-type: none;
-    float: right;
-}
-
-ul li{
-    display: inline-block;
-}
-
-ul li a{
-    text-decoration: none;
-    color: black;
-    padding: 5px 20px;
-    border: 1px;
-    margin-top: 25px;
-    margin-right: 20px;
-}
-    
-.title {
-    color: red;
-}
-button {
-    background-color: #EC4067;
-    font-family: "nunito";
-    color: white;
-    border: #EC4067;
-    padding: 10px 10px;
-    size: 100px;
-}
-#white {
- background-color: white;
- color: #EC4067;
-}
