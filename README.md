@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Moringa School Access 25## By Martin Chege## Screenshot
  ![image](./assets/assets1.png) ## Table of Content - [Description](#description)
  - [Features](#features)
@@ -36,3 +37,8 @@ SOFTWARE.
 [Go Back to the top](#Moringa School Access 25)
 ## Authors Profile - [Martin Chege](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
 Linked - [Martin Chege](https://www.linkedin.com/in/albert-byrone-664811144/)[Go Back to the top](#Moringa School Access 25)
+=======
+# MoringaSchoolLandingPage-WK1-
+This is a repository for a school landing page. The landing page will use HTML (Control Structure) and CSS (Looks).
+[Uploading READ.me.odt…]()
+>>>>>>> c44a831660761406699934650fa130554449e782
