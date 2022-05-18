@@ -1,0 +1,97 @@
+nav>.topsection>.section,.links{
+    margin: 15px;
+}
+nav>.topsection{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+nav>.topsection>.links> ul>li{
+display: inline-block;
+padding: 10px;
+}
+nav>.topsection>.links> ul>li>.Enroll{
+  padding: 10px;
+  font-weight: 400;
+  background-color: #EC4067;
+  color:white;
+  border: #EC4067;
+}
+#one{
+  padding: 10px;
+  font-weight: 400;
+  background-color: #EC4067;
+  color:white;
+  border: none;
+}
+#two{
+  padding: 10px;
+  font-weight: 400;
+  background-color: white;
+  color:red;
+  border: #EC4067;
+  border: 2px solid #EC4067 ;
+}
+
+#title1{
+  color: #EC4067;
+}
+.section1>.moringa{
+  display: flex;
+  width: 100%;
+  overflow: auto;
+  padding: 20px;
+}
+.section1>.moringa>.lefttxt{
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin-left: 80;
+  max-width: 400;
+  padding: 20px;
+}
+
+.section1>.moringa>.lefttxt{
+padding-left: 30px;
+}
+
+#Big{
+  color: #EC4067;
+  font-weight: 300;
+}
+.leftimg{
+  width: 50%;
+}
+
+
+.rightimg img {
+  padding-right: 30px;
+  display: inline;
+  padding-right: 200px;
+  padding-top: 0px;
+  margin-top: 0px;
+  float: right;
+  border-top: 0px;
+  position: relative;
+}
+
+.section2>.storysection>.leftimg{
+  margin: 25px;
+  padding: 20px;
+}
+
+.section3{
+
+}
+
+.section4{
+
+}
+.section5{
+
+}
+.section6{
+
+}
